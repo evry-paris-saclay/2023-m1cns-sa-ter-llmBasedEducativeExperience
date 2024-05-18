@@ -28,5 +28,20 @@ Pour exécuter l'application, suivez ces étapes :
 2. Une fois compilé avec succès, utilisez la commande suivante dans votre terminal pour exécuter l'application :
    ```bash
    chainlit run app.py
+## Utilisation
+
+Une fois que le script est démarré, l'interface de l'assistant vous guidera à travers les étapes suivantes :
+- Téléchargez un fichier PDF contenant le contenu éducatif.
+- L'assistant extrait automatiquement le texte du PDF téléchargé.
+- Les utilisateurs peuvent interagir avec l'assistant en posant des questions directes ou en utilisant des boutons pour générer des quiz, des questions et des exemples basés sur le texte extrait.
+
+## Fonctionnalités
+
+- **Extraction et analyse de texte** : L'assistant est capable de lire et d'interpréter le contenu des documents PDF.
+- **Génération de contenu interactif** : Il peut créer des questions, des quiz et des exemples basés sur le texte extrait pour enrichir l'expérience d'apprentissage.
+- **Interaction en temps réel** : L'assistant répond aux requêtes des utilisateurs de manière interactive, améliorant ainsi l'expérience d'apprentissage.
+## Conclusion
+
+`llmBasedEducativeExperience` exploite les technologies de traitement du langage naturel pour offrir un outil d'assistance et d'engagement, améliorant ainsi l'expérience en classe. Conçu pour soutenir les enseignants dans la gestion de leurs cours et encourager l'interaction des étudiants, cet outil rend les interactions en classe plus dynamiques et enrichissantes.
 
 
