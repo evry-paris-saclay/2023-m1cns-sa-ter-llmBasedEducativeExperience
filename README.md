@@ -16,7 +16,7 @@ Pour mettre en place et exécuter ce projet, suivez les instructions ci-dessous 
 ### Dépendances
 Les dépendances nécessaires sont listées dans le fichier `src/requirements.txt` du projet.
 ## Configuration
-Créez un fichier `.env` à la racine de votre projet et ajoutez-y la clé API nécessaire pour le modèle LLM, dans notre cas on utilise une API de Groq que vous pouvez créer un compte et avoir accés a une API directement sur [groq.com](https://groq.com/)
+Créez un fichier `.env` à la racine de votre projet et ajoutez-y la clé API nécessaire pour le modèle LLM, dans notre cas on utilise une API de Groq que vous pouvez créer un compte et avoir accés a une API directement sur [GroqCloud.com](https://console.groq.com/)
 ```plaintext
 GROQ_API_KEY="votre_clé_api"
 ```
