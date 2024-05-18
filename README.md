@@ -16,8 +16,17 @@ Pour mettre en place et exécuter ce projet, suivez les instructions ci-dessous 
 ### Dépendances
 Les dépendances nécessaires sont listées dans le fichier `src/requirements.txt` du projet.
 ## Configuration
-Créez un fichier `.env` à la racine de votre projet et ajoutez-y la clé API nécessaire pour le modèle LLM, dans notre cas on utilise une API de ChatGroq que vous pouvez créer un compte et avoir accés a une API directement sur [groq.com](https://groq.com/)
+Créez un fichier `.env` à la racine de votre projet et ajoutez-y la clé API nécessaire pour le modèle LLM, dans notre cas on utilise une API de Groq que vous pouvez créer un compte et avoir accés a une API directement sur [groq.com](https://groq.com/)
 ```plaintext
 GROQ_API_KEY="votre_clé_api"
+
+## Exécution
+
+Pour exécuter l'application, suivez ces étapes :
+
+1. Compilez le fichier `app.py`.
+2. Une fois compilé avec succès, utilisez la commande suivante dans votre terminal pour exécuter l'application :
+   ```bash
+   chainlit run app.py
 
 
