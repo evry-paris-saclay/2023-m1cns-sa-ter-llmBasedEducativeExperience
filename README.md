@@ -31,6 +31,7 @@ Pour exécuter l'application, suivez ces étapes :
 ## Utilisation
 
 Une fois que le script est démarré, l'interface de l'assistant vous guidera à travers les étapes suivantes :
+![Exemple d'utilisation](C:/Users/DJELLOUDI/Pictures/capture.png)
 - Téléchargez un fichier PDF contenant le contenu éducatif.
 - L'assistant extrait automatiquement le texte du PDF téléchargé.
 - Les utilisateurs peuvent interagir avec l'assistant en posant des questions directes ou en utilisant des boutons pour générer des quiz, des questions et des exemples basés sur le texte extrait.
